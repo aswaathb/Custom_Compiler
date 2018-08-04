@@ -1,0 +1,5 @@
+x:=4
+while x < 10 begin
+    x:=x+1
+    print x
+end

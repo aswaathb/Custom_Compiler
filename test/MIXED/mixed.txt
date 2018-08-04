@@ -1,0 +1,13 @@
+x := 4
+y:= 5
+
+while x begin
+    if x < y begin
+        y:=100-y
+        if 5 begin
+            print y
+        end
+    end
+    x := x-1
+    print x
+end

@@ -1,0 +1,11 @@
+x:= 55
+y := 44
+
+if x < y 
+begin
+x:= x*45
+else y:= y+5
+end
+
+print x
+print y

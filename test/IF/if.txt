@@ -1,0 +1,7 @@
+if 67
+begin
+x:= 5+6*45
+end
+
+print x
+

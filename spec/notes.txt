@@ -1,0 +1,19 @@
+- There are no functions.
+- All variables have global scope.
+- The only type is signed integer.
+- Variables are declared on first use.
+- 0 is false, non-zero is true
+- Variable are any combination of lower and upper case letters.
+- All integer constants are decimal.
+- `print` is implemented by calling a C function called `print`, which does
+  the equivalent of `printf("%d\n", value);`
+- The return value of programs is zero.
+
+Expressions:
+- <, =
+- +, * 
+- Precedence follows C
+- Brackets are not required
+
+Statements:
+- if-else, while, print, sequencing, assignment

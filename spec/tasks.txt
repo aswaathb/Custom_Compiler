@@ -1,0 +1,5 @@
+1 - Test : Write 5 test-cases
+2 - Lexer : create a lexer that writes tokens to a stream
+3 - Parser : Create a grammar that recognises the language
+4 - AST : Design an AST to represent the language and connect to parser
+5 - Implement code-gen for MIPS

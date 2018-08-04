@@ -1,0 +1,6 @@
+x:=4
+y:=0
+while x < 10 begin
+    x:=x+1 y:=y+1
+    if y=4 begin print y end
+end
